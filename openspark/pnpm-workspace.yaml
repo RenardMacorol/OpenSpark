@@ -1,4 +1,6 @@
 allowBuilds:
+  esbuild: false
+  puppeteer: false
   sharp: false
   unrs-resolver: false
 ignoredBuiltDependencies:
