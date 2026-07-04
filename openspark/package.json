@@ -1,6 +1,7 @@
 {
   "name": "openspark",
   "version": "0.1.0",
+  "packagemanager":"pnpm@11.5.3",
   "private": true,
   "scripts": {
     "dev": "next dev",
